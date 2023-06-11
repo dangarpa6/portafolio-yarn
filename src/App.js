@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App"
     style={{background: darkMode? 'black': '', 
-    backgroundImage: darkMode? `linear-gradient(180deg, #0000008c 0%, #0000008c 100%), url(${background1})`: '', 
+    backgroundImage: darkMode? `linear-gradient(180deg, #0000008c 0%, #0000008c 100%), url(${background1}) `: '', 
     color : darkMode? 'white':'' }}
     >
 

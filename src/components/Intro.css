@@ -110,6 +110,7 @@
 .i-right>*{
     position: absolute;
     z-index: 1;
+    transform:scale(1.0)
 }
 
 .blob{
@@ -125,6 +126,7 @@ opacity: 40%;
     flex: 1;
     align-items: center;
     padding-top: 30%;
+    transform: scale(0.40);
   }
 
 }
