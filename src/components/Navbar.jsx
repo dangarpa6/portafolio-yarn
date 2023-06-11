@@ -16,7 +16,7 @@ const Navbar = () => {
                         <li>Experience</li>
                         <li>Portafolio</li>
                         <li>Testimonials</li>
-                        <i class="fa-brands fa-github"></i>
+                        <i className="fa-brands fa-github"></i>
 
                     </ul>
                 </div>
