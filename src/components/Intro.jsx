@@ -1,8 +1,5 @@
 import React from 'react'
 import './Intro.css'
-import Github from '../img/github.png';
-import LinkedIn from '../img/linkedin.png'
-import Instagram from '../img/instagram.png'
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import Blobs from './Blobs';
 import logo from '../img/DP_png_3.png';
