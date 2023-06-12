@@ -147,7 +147,7 @@ opacity: 70%;
 }
 
 .logo{
-    transform: scale(0.25);
+    transform: scale(0.1);
     left: 40%;
     bottom: 25%;
     animation : float 3s linear infinite;
