@@ -5,7 +5,7 @@ import Services from "./components/Services/Services";
 import { themeContext } from "./Context";
 import { useContext } from "react";
 import background1 from './img/computer.png'
-import Test from "./components/Test";
+
 
 function App() {
   const theme = useContext(themeContext);
