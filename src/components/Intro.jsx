@@ -22,10 +22,10 @@ const Intro = () => {
         </div>
         <button className='button i-button'>Hire me</button>
         <div className='i-icons'>
-          <a href="https://github.com/dangarpa6" target='_blank'>
+          <a href="https://github.com/dangarpa6">
             <FaGithub className='git' />
           </a>
-          <a href="https://www.linkedin.com/in/daniel-garcia-2b1636231/" target='_blank'>
+          <a href="https://www.linkedin.com/in/daniel-garcia-2b1636231/">
             <FaLinkedin className='linkin' />
           </a>
         </div>
@@ -47,7 +47,8 @@ const Intro = () => {
      </div>
 
         <div className='blur' style={{background: "rbg(238 210 255) "}}></div>
-        <div className='blur' style={{background: "#C1F5FF", top:'17rem', width:'15rem',
+        <div className='blur' style={{background: "#C1F5FF", 
+      width:'15rem',
       height:'20rem',
       left:'4rem',
       top: '5.7rem'

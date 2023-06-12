@@ -20,7 +20,7 @@ const Navbar = () => {
 
                     </ul>
                 </div>
-                <a href="mailto:dangarpa6@gmail.com" target='_blank'>
+                <a href="mailto:dangarpa6@gmail.com">
                 <button className="button n-button">
                     Contact me
                 </button>
