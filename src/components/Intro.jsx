@@ -7,7 +7,6 @@ import FloatingDiv from './FloatingDiv/FloatingDiv';
 import Crown from '../img/crown.png'
 import Blobs2 from './Blobs2';
 import thumbup from '../img/thumbup.png'
-import background from '../img/computer.png'
 import './blobs.css'
 
 
